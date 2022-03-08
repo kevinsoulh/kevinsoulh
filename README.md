@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/KevinSoulh">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsoulh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoulh&layout=compact&langs_count=6&theme=dark"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoulh&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
