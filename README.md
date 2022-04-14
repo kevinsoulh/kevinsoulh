@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo(a)! Eu sou o Kevin Souza :)
+## Olá! Seja bem vindo(a)! Eu sou o Kevin :)
 <div align="center">
   <a href="https://github.com/KevinSoulh">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsoulh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
