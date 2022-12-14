@@ -1,8 +1,8 @@
 ## Olá! Seja bem vindo(a)! Eu sou o Kevin :)
-<a href="https://github.com/kevinsoulh/github-readme-stats">
+<a href="https://github.com/kevinsoulh/kevinsoulh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinsoulh&repo=github-readme-stats&count_private=true&theme=dark" />
 </a>
-<a href="https://github.com/kevinsoulh/convoychat">
+<a href="https://github.com/kevinsoulh/kevinsoulh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoulh&layout=compact&count_private=true&theme=dark" />
 </a>
   
