@@ -2,7 +2,7 @@
 <a href="https://github.com/kevinsoulh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinsoulh&repo=github-readme-stats&count_private=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kevinsoulh/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoulh&layout=compact&count_private=true&theme=dark" />
 </a>
   
