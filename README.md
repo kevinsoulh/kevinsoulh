@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo(a)! Eu sou o Kevin :)
+## Hi! I'm Kevin :)
 
 
 <div align="center">
