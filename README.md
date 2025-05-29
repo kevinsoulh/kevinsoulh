@@ -1,11 +1,39 @@
-## Hi! I'm Kevin :)
+### Hi, I'm Kevin 👋
 
+I'm a **Senior Software Engineer** with over **7 years of experience** building scalable, high-performance web applications — specializing in PHP, Laravel, and the TALL Stack (TailwindCSS, Alpine.js, Laravel, and Livewire).
 
-<div align="center">
+💼 Throughout my career, I've contributed to a variety of web applications and ERP systems, sharpening my skills across both backend and frontend technologies. I'm passionate about clean code, solid architecture, and delivering real-world solutions that make a difference.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+PHP, JavaScript, TypeScript, Python
+
+**Frameworks & Libraries:**  
+Laravel, Livewire, AlpineJS, TailwindCSS, Next.js, Vue.js/Nuxt (currently learning), React.js, Node.js
+
+**Databases & ORMs:**  
+MySQL, MongoDB, Redis, Eloquent, Prisma
+
+**Tools & DevOps:**  
+Docker, AWS, Hostinger, RabbitMQ, NPM, Composer, Microservices
+
+---
+
+### 📬 Let's Connect
+
+📧 kevinsoulh@outlook.com  
+📞 +55 11 94363-1750
+
+---
+
+<!-- <div align="center">
   <a href="https://github.com/kevinsoulh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsoulh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoulh&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+</div> -->
   
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
