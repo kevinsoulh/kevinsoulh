@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin 👋
 
-I'm a **Senior Software Engineer** with around **7 years of experience** building scalable, high-performance web applications. Specializing in PHP, Laravel, and the TALL Stack (TailwindCSS, Alpine.js, Laravel, and Livewire).
+I'm a **Senior Software Engineer** with around **8 years of experience** building scalable, high-performance web applications. Specializing in PHP, Laravel, and the TALL Stack (TailwindCSS, Alpine.js, Laravel, and Livewire).
 
 💼 Throughout my career, I've contributed to a variety of web applications and ERP systems, sharpening my skills across both backend and frontend technologies. I'm passionate about clean code, solid architecture, and delivering real-world solutions that make a difference.
 
