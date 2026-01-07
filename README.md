@@ -24,8 +24,7 @@ Docker, AWS, Hostinger, RabbitMQ, NPM, Composer, Microservices
 
 ### 📬 Let's Connect
 
-📧 kevinsoulh@outlook.com  
-📞 +55 11 94363-1750
+📧 kevinsoulh@outlook.com 
 
 ---
 
